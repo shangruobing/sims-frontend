@@ -1,0 +1,23 @@
+{
+  "name": "sims",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.2.2",
+    "element-plus": "^1.2.0-beta.3",
+    "vue": "^3.2.26",
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@element-plus/icons": "0.0.11",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1",
+    "vite": "^2.6.4"
+  }
+}
