@@ -1,7 +1,7 @@
 # SIMS Frontend
 **SIMS Web Development Frontend**
 
-- Use Vue for front-end development
+- Use Vue for frontend development
 - Kunming University of Science and Technology
 - Information Management and Information System
 - Junior first semester course
