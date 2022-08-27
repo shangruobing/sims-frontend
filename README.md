@@ -1,4 +1,4 @@
-# SIMS frontend
+# SIMS Frontend
 **SIMS Web Development Frontend**
 
 - Use Vue for front-end development
