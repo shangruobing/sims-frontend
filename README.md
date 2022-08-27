@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# SIMS frontend
+**SIMS Web Development Frontend**
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- Use Vue for front-end development
+- Kunming University of Science and Technology
+- Information Management and Information System
+- Junior first semester course
+- September 2021 to January 2022
+- The instructor is Tang Rui
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+The first semester of the junior year
